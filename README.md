@@ -35,7 +35,14 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 
 #
 
-### 📊 Stats
+### 📊 Weekly development breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#
+
+### 📊 GitHub stats
 
 <p><img align="left" src="https://github-readme-stats-joris-projects-6eb5312b.vercel.app/api/top-langs?username=armaatus&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joris-de-jong" /></p>
 
