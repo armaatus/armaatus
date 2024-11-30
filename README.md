@@ -38,6 +38,11 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #
