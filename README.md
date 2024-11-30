@@ -17,20 +17,21 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg"/>
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"/>
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=rust"/>
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=flutter"/>
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=ts" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=git" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=linux" />
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=html" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=css" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=js" />
+<img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=vue" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=nodejs" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=py" />
+<img align="left" alt="Csharp" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=cs" />
+<img align="left" alt="Dotnet" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=dotnet" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=github" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://skillicons.dev/icons?i=docker" />
 <br />
 
 #
@@ -38,6 +39,11 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 #
