@@ -38,6 +38,8 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 
 ### 📊 Weekly breakdown
 
+#### Development
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -49,6 +51,8 @@ Other      1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+#### Todoist
 
 <!-- TODO-IST:START -->
 <!-- TODO-IST:END -->
