@@ -36,7 +36,7 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 
 #
 
-### 📊 Weekly development breakdown
+### 📊 Weekly breakdown
 
 <!--START_SECTION:waka-->
 
@@ -45,6 +45,9 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
 
 #
 
