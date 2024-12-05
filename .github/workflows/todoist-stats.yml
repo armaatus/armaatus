@@ -3,8 +3,8 @@ name: Todoist Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every hour minutes between 8AM and 11PM UTC
-    - cron: "0 8-23 * * *"
+    # runs at 11:05 AM, 4:05PM and 11:05 PM UTC
+    - cron: "5 11,16,23 * * *"
 
 jobs:
   update-readme:
