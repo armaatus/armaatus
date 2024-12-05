@@ -43,11 +43,11 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 45 mins    █████████████████░░░░░░░░   67.34 %
-YAML       27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
-Markdown   13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
-TOML       9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Other      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
+Rust        1 hr 45 mins    ██████████▒░░░░░░░░░░░░░░   41.34 %
+Typst       1 hr 16 mins    ███████▒░░░░░░░░░░░░░░░░░   29.76 %
+YAML        35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.04 %
+Markdown    26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+TOML        9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 ```
 
 <!--END_SECTION:waka-->
