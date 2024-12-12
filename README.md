@@ -55,10 +55,10 @@ SCSS          17 mins         ▓░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  1,708 Karma Points           
-🌸  Completed 3 tasks today           
-✅  Completed 56 tasks so far           
-⏳  Longest streak is 4 days
+🏆  1,837 Karma Points           
+🌸  Completed 10 tasks today           
+✅  Completed 63 tasks so far           
+⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
 #
