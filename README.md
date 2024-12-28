@@ -43,9 +43,7 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 <!--START_SECTION:waka-->
 
 ```txt
-Typst   32 mins         ███████████████████████▓░   94.43 %
-Lua     1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
-Other   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
