@@ -43,7 +43,10 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Astro    44 mins         █████████████▓░░░░░░░░░░░   54.17 %
+Vue.js   33 mins         ██████████▒░░░░░░░░░░░░░░   41.15 %
+JSON     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
