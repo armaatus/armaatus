@@ -52,9 +52,9 @@ Other   0 secs          █████████▒░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  2,562 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 97 tasks so far           
+🏆  2,634 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 101 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
