@@ -43,8 +43,8 @@ I'm a computer science bachelor graduate and currently doing my master in busine
 <!--START_SECTION:waka-->
 
 ```txt
-Typst   0 secs          ███████████████▓░░░░░░░░░   62.50 %
-Other   0 secs          █████████▒░░░░░░░░░░░░░░░   37.50 %
+Typst   33 mins         █████████████████████████   99.56 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
