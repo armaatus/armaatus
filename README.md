@@ -11,7 +11,13 @@
 
 `Doing my best to create cool stuff`
 
-I'm a computer science bachelor graduate and currently doing my master in business informatics.
+Currently pursuing a Master of Science in Business Informatics at Universiteit Utrecht.
+
+I am a software engineer at Dewico, leveraging my skills in team leadership and IT infrastructure design. With an educational background in computer science, my role at Dewico and previous experience at Film-Point reflect my skills in conceptualizing IT solutions and getting things done.
+
+At Film-Point, we're committed to developing a user-friendly app for aspiring filmmakers. With the help of the film making community we are building a place where film locations can be shared for free.
+
+My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity awareness. Our team's collaborative efforts aim to improve the cybersecurity awareness of businesses in a way that is never seen before.
 
 ---
 
@@ -51,10 +57,12 @@ No activity tracked
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  3,121 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 145 tasks so far           
-⏳  Longest streak is 5 days
+
+🏆 3,121 Karma Points  
+🌸 Completed 2 tasks today  
+✅ Completed 145 tasks so far  
+⏳ Longest streak is 5 days
+
 <!-- TODO-IST:END -->
 
 #
