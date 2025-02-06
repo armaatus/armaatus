@@ -62,8 +62,8 @@ Astro          26 mins         █░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  3,338 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 158 tasks so far           
+🌸  Completed 3 tasks today           
+✅  Completed 160 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
