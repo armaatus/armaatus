@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-YAML           1 hr 42 mins    ██████████████▓░░░░░░░░░░   58.88 %
-JSON           29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.90 %
-Typst          19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Image (jpeg)   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-TOML           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+YAML           1 hr 17 mins    ███████████▒░░░░░░░░░░░░░   45.23 %
+JSON           29 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.06 %
+Markdown       27 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.83 %
+Typst          19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
+Image (jpeg)   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
 ```
 
 <!--END_SECTION:waka-->
