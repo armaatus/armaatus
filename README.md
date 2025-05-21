@@ -49,10 +49,10 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-Other      2 hrs 44 mins   ██████████████▓░░░░░░░░░░   59.02 %
-Markdown   59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Typst      53 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
-Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other      1 hr 2 mins     █████████░░░░░░░░░░░░░░░░   35.52 %
+Markdown   59 mins         ████████▒░░░░░░░░░░░░░░░░   33.43 %
+Typst      53 mins         ███████▒░░░░░░░░░░░░░░░░░   29.96 %
+Lua        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
