@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-ca65 assembler   11 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.72 %
-JavaScript       3 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.33 %
-HTML             1 hr 25 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Other            54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Assembly         37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+ca65 assembler   4 hrs 46 mins   ██████████▓░░░░░░░░░░░░░░   42.92 %
+JavaScript       3 hrs 25 mins   ███████▓░░░░░░░░░░░░░░░░░   30.77 %
+HTML             1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+Other            36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
+CSS              21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
 ```
 
 <!--END_SECTION:waka-->
