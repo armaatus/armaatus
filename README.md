@@ -61,9 +61,9 @@ Typst            33 mins         █▒░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  5,140 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 258 tasks so far           
+🏆  5,177 Karma Points           
+🌸  Completed 4 tasks today           
+✅  Completed 261 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
