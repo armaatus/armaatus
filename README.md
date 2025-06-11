@@ -61,9 +61,9 @@ TypeScript   12 mins         █░░░░░░░░░░░░░░░░
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  5,364 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 271 tasks so far           
+🏆  5,428 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 276 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
