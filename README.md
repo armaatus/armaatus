@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-Rust        2 hrs 51 mins   ██████████████████▓░░░░░░   75.25 %
-TOML        28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 %
-Typst       15 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-gitignore   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
-Other       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Rust             1 hr 21 mins    ████████▒░░░░░░░░░░░░░░░░   32.84 %
+Vue.js           39 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+TypeScript       38 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
+Other            18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 %
+JSON             17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
 ```
 
 <!--END_SECTION:waka-->
