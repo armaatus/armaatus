@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-Swift        7 hrs 25 mins   ███████████▓░░░░░░░░░░░░░   46.90 %
-Dart         3 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   24.49 %
-Other        1 hr 47 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
-YAML         1 hr 36 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
-Markdown     39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Swift      2 hrs 18 mins   ███████▓░░░░░░░░░░░░░░░░░   31.12 %
+Dart       1 hr 48 mins    ██████░░░░░░░░░░░░░░░░░░░   24.45 %
+Other      1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+YAML       1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Markdown   37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
 ```
 
 <!--END_SECTION:waka-->
