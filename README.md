@@ -62,7 +62,7 @@ Nix         13 mins         █░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  6,055 Karma Points           
-🌸  Completed 4 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 334 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
