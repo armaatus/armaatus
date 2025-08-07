@@ -61,9 +61,9 @@ Nix         13 mins         █░░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  6,009 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 330 tasks so far           
+🏆  6,012 Karma Points           
+🌸  Completed 1 tasks today           
+✅  Completed 331 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
