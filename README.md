@@ -61,9 +61,9 @@ SQL         28 mins         █▓░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  6,235 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 349 tasks so far           
+🏆  6,272 Karma Points           
+🌸  Completed 4 tasks today           
+✅  Completed 353 tasks so far           
 ⏳  Longest streak is 5 days
 <!-- TODO-IST:END -->
 
