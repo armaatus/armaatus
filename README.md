@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-Python      6 hrs 51 mins   ██████████████████▒░░░░░░   73.46 %
-Nix         36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 %
-HTML        30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
-YAML        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Makefile    19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+Python      7 hrs 32 mins   ████████████████░░░░░░░░░   64.61 %
+C++         1 hr 30 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.84 %
+Nix         44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
+YAML        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+Makefile    22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
