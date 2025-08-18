@@ -61,10 +61,10 @@ Makefile    22 mins         ▓░░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  6,916 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 404 tasks so far           
-⏳  Longest streak is 5 days
+🏆  6,980 Karma Points           
+🌸  Completed 4 tasks today           
+✅  Completed 407 tasks so far           
+⏳  Longest streak is 6 days
 <!-- TODO-IST:END -->
 
 #
