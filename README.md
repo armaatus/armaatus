@@ -61,9 +61,9 @@ YAML     0 secs          ░░░░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  7,203 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 422 tasks so far           
+🏆  7,301 Karma Points           
+🌸  Completed 2 tasks today           
+✅  Completed 424 tasks so far           
 ⏳  Longest streak is 9 days
 <!-- TODO-IST:END -->
 
