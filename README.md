@@ -62,7 +62,7 @@ Dart          2 mins          ░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  7,930 Karma Points           
-🌸  Completed 2 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 494 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
