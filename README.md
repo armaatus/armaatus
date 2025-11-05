@@ -62,7 +62,7 @@ JSON         21 mins         █▓░░░░░░░░░░░░░░░
 
 <!-- TODO-IST:START -->
 🏆  8,322 Karma Points           
-🌸  Completed 2 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 544 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
