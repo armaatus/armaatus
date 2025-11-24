@@ -61,9 +61,9 @@ gitignore    2 mins          ░░░░░░░░░░░░░░░░░
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  8,537 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 573 tasks so far           
+🏆  8,550 Karma Points           
+🌸  Completed 4 tasks today           
+✅  Completed 577 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
 
