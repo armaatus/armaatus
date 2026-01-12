@@ -60,9 +60,9 @@ Vim Script   0 secs          █▒░░░░░░░░░░░░░░░
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  8,954 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 622 tasks so far           
+🏆  8,973 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 628 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
 
