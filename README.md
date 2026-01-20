@@ -61,9 +61,9 @@ CSHTML        16 mins         █▓░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  9,197 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 660 tasks so far           
+🏆  9,235 Karma Points           
+🌸  Completed 7 tasks today           
+✅  Completed 667 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
 
