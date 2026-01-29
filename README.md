@@ -61,9 +61,9 @@ Lua         13 mins         █░░░░░░░░░░░░░░░░�
 #### Todoist
 
 <!-- TODO-IST:START -->
-🏆  9,434 Karma Points           
-🌸  Completed 1 tasks today           
-✅  Completed 689 tasks so far           
+🏆  9,460 Karma Points           
+🌸  Completed 5 tasks today           
+✅  Completed 693 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
 
