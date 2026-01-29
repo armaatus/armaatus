@@ -62,7 +62,7 @@ Lua         13 mins         █░░░░░░░░░░░░░░░░�
 
 <!-- TODO-IST:START -->
 🏆  9,460 Karma Points           
-🌸  Completed 5 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 693 tasks so far           
 ⏳  Longest streak is 13 days
 <!-- TODO-IST:END -->
