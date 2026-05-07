@@ -49,11 +49,11 @@ My work with Dimaros on the "Hack The Back" shows my interest in cybersecurity a
 <!--START_SECTION:waka-->
 
 ```txt
-Vue          4 hrs 3 mins          ██████████▓░░░░░░░░░░░░░░   42.90 %
-TypeScript   1 hr 21 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Markdown     1 hr 20 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.25 %
-Python       42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-CSS          28 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Vue          3 hrs 14 mins         █████████▒░░░░░░░░░░░░░░░   36.67 %
+TypeScript   1 hr 15 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.26 %
+Markdown     1 hr 12 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Python       42 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 %
+gitignore    29 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
